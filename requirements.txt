@@ -1,0 +1,8 @@
+
+pytubefix
+pytube
+tkinter
+ffmpeg-python
+moviepy
+torch
+whisper
