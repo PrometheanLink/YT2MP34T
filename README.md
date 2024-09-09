@@ -2,7 +2,7 @@
 YT2MP34T: Video Downloader and Whisper Transcriber
 
 YT2MP34T is a user-friendly application that downloads audio from popular video site, converts them to MP3, and optionally transcribes the audio using OpenAI's Whisper model. This app is designed to provide a simple yet powerful solution for extracting audio and generating transcriptions locally on your machine, without requiring cloud credits or tokens.
-Features
+Features:
 
     Download video audio as MP3 from a popular video site
     Transcribe audio using Whisper with GPU acceleration (if available)
@@ -11,7 +11,7 @@ Features
     Clean and organized UI for ease of use
     Detailed logging for troubleshooting and performance monitoring
 
-Prerequisites
+Prerequisites:
 
     Python 3.10 or later
     FFmpeg installed and available in your system's PATH (for MP3 conversion)
